@@ -1,0 +1,7 @@
+echo "# ku-" >> README.md
+echo "# ku-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/wjj19851223/ku-.git
+git push -u origin master
